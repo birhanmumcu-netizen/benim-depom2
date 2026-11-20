@@ -1,0 +1,8 @@
+{
+  "name": "Benim Deposu",
+  "description": "Deneme CloudStream deposu",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/birhanmumcu-netizen/benim-depom2/builds/plugins.json"
+  ]
+}
